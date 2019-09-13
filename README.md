@@ -1,6 +1,6 @@
 # Projetos-Data-Science (consumo de bebida alcoólica mundial)
-Aqui estarão alguns projetos usando machine learning (ML), regressão linear/múltipla, séries temporais, dentre outros. Usando as linguagens python.
-link do estudo: https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
+Aqui estarão alguns projetos usando machine learning (ML), regressão linear/múltipla, séries temporais, dentre outros, usando a linguagem python.
+Link do estudo: https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
 
 **1)Agrupamentos** (k-medoids e K-means)
 
