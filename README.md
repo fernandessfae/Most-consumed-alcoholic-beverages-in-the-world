@@ -12,6 +12,6 @@ link do estudo: https://fivethirtyeight.com/features/dear-mona-followup-where-do
 ![regressão linear simples (cerveja)](https://user-images.githubusercontent.com/48027825/64828513-2cd23200-d59f-11e9-94e9-5a5b04b81540.png) 
 ![resíduais (cerveja)](https://user-images.githubusercontent.com/48027825/64828524-365b9a00-d59f-11e9-9af1-2dc8a93761d6.png)
 
-**3)Naive Bays e sua matriz de confusão
+**3)Naive Bays e sua matriz de confusão**
 
 ![matriz confusão(naive bays)](https://user-images.githubusercontent.com/48027825/64828534-45424c80-d59f-11e9-9d57-634fb2c50d09.png)
