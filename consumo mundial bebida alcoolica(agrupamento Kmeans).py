@@ -57,8 +57,8 @@ resultados = confusion_matrix(bebida_mundo['most_consumed_number'], previsoes)
 
 #Plotando o gráfico do agrupamento KMeans, executando os 4 comandos ao mesmo tempo
 plt.scatter(bebida[previsoes == 0, 0], bebida[previsoes == 0, 1], c = 'green', label = 'beer')
-plt.scatter(bebida[previsoes == 1, 0], bebida[previsoes == 1, 1], c = 'red', label = 'spirit')
-plt.scatter(bebida[previsoes == 2, 0], bebida[previsoes == 2, 2], c = 'blue', label = 'wine')
+plt.scatter(bebida[previsoes == 1, 1], bebida[previsoes == 1, 0], c = 'red', label = 'spirit')
+plt.scatter(bebida[previsoes == 2, 2], bebida[previsoes == 2, 0], c = 'blue', label = 'wine')
 plt.legend()
  
 '''Atenção²: aqui vai uma explicação de como o gráfico como os grupo foram gerados. Nesse caso o scater foi passado como parâmentros
