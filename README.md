@@ -5,7 +5,7 @@ Link do estudo: https://fivethirtyeight.com/features/dear-mona-followup-where-do
 **1)Agrupamentos** (k-medoids e K-means)
 
 ![K-medoids2](https://user-images.githubusercontent.com/48027825/64828266-01027c80-d59e-11e9-88a1-800adfcbb999.png)
-![K-means2](https://user-images.githubusercontent.com/48027825/64828281-19729700-d59e-11e9-97d1-02523e94f0ac.png)
+![kmeans](https://user-images.githubusercontent.com/48027825/64903133-c37b1d80-d689-11e9-899d-4e7d378ce7dd.png)
 
 **2)Regressão Linear Simples e seu resíduo**
 
