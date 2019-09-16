@@ -78,5 +78,5 @@ taxa_erro = 1 - taxa_acerto
          Como constatado, a taxa de acerto foi 90.2%, aproximadamente, com 21% de dados para teste com todos os 193 países.
          Como constatado, a taxa de acerto foi 89.7%, aproximadamente, com 20% de dados para teste com todos os 193 países.
          
-         Conclusão, o melhor resultado da máquina foi um valor de 0.22(22%) dos dados para o teste e 0.88(88%) dos dados para treinamento. A conclusão que se
+         Conclusão, o melhor resultado da máquina foi um valor de 0.22(22%) dos dados para o teste e 0.78(78%) dos dados para treinamento. A conclusão que se
          tira é de que há um limite para os dados de treinamento. Nem sempre quanto mais dados para treinamento, melhor será o resultado do teste.'''
