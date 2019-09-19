@@ -84,7 +84,7 @@ uma pessoa bebe, aproximadamente, 13.65 litros de álcool (cerca de 34.12% aprox
 modelo2._residues
 
 visualizador2 = ResidualsPlot(modelo2)
-visualizador2.fit(X, y)
+visualizador2.fit(A, b)
 visualizador2.poof() 
 
 '''3) Relação linear entre total de álcool ingerido (em Litros) em relação com o total de vinho ingerido (em porções) ''' 
@@ -118,5 +118,5 @@ aproximadamente, 15.8 litros de álcool (cerca de 26.3% aproximadamente) '''
 modelo3._residues
 
 visualizador3 = ResidualsPlot(modelo3)
-visualizador3.fit(X, y)
+visualizador3.fit(C, d)
 visualizador3.poof() 
