@@ -24,4 +24,8 @@ Link do estudo: https://fivethirtyeight.com/features/dear-mona-followup-where-do
 
 **5)Matriz de Confusão (Naive Bays)**
 
-![matriz confusão(naive bays)](https://user-images.githubusercontent.com/48027825/64828534-45424c80-d59f-11e9-9d57-634fb2c50d09.png)
+![naive bays](https://user-images.githubusercontent.com/48027825/65839123-c3f9f200-e2e0-11e9-8987-e0dad5557805.png)
+
+**6)Matriz de Confusão (Árvore de Decisão)**
+
+![arvore de decisao](https://user-images.githubusercontent.com/48027825/65839122-bc3a4d80-e2e0-11e9-894d-b697bc017415.png)
