@@ -36,6 +36,7 @@ Link download dataset: https://github.com/fivethirtyeight/data/tree/master/alcoh
 ![gráfico regressão linear simples mundial, com exceções (vinho)](https://user-images.githubusercontent.com/48027825/85955993-c31deb80-b958-11ea-9eef-17f07e30148f.png)
 ![residuos regressão linear simples mundial, com exceções (vinho)](https://user-images.githubusercontent.com/48027825/85955994-c3b68200-b958-11ea-97c8-aed7a19bebd2.png)
 
+
 ### No mundo, com grupos com a sua bebida marjoritária
 **1)Gráficos e resíduos (Cerveja)**
 
@@ -51,6 +52,7 @@ Link download dataset: https://github.com/fivethirtyeight/data/tree/master/alcoh
 
 ![gráfico regressão linear simples marjoritário (vinho)](https://user-images.githubusercontent.com/48027825/85956099-c2398980-b959-11ea-8f10-36103c308f66.png)
 ![residuos regressão linear simples marjoritário (vinho)](https://user-images.githubusercontent.com/48027825/85956100-c2d22000-b959-11ea-8fbd-d8ded0c8f694.png)
+
 
 ## Classificação
 ### No mundo, com todos os países
@@ -69,6 +71,7 @@ Link download dataset: https://github.com/fivethirtyeight/data/tree/master/alcoh
 ![matriz de confusão knn - mundo, sem exceção](https://user-images.githubusercontent.com/48027825/85956746-4988fc00-b95e-11ea-9d56-68ca201dfc65.png)
 ![medição classificação knn - mundo, sem exceção](https://user-images.githubusercontent.com/48027825/85956745-48f06580-b95e-11ea-9fda-ad59107cf6cb.png)
 
+
 ### No mundo, com exceções
 **1)Matriz de Confusão e Vizualização dos modelos (Naive Bays)**
 
@@ -85,11 +88,13 @@ Link download dataset: https://github.com/fivethirtyeight/data/tree/master/alcoh
 ![matriz de confusão arvore - mundo, com exceção](https://user-images.githubusercontent.com/48027825/85956744-4857cf00-b95e-11ea-8c0b-6fdb33b30df6.png)
 ![medição classificação arvore - mundo, com exceção](https://user-images.githubusercontent.com/48027825/85956748-4988fc00-b95e-11ea-95e8-e30bb7b3019d.png)
 
+
 ## Agrupamento
 ### No mundo, com todos os países
 **1) K-means**
 
 ![agrupamento kmeans, sem exceção](https://user-images.githubusercontent.com/48027825/85956831-d6cc5080-b95e-11ea-8c87-2e3103622fc0.png)
+
 
 ### No mundo, com exceções
 **1) K-means**
