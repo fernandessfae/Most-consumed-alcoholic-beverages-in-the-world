@@ -1,12 +1,13 @@
 # Projetos-Data-Science (consumo de bebida alcoólica mundial)
 Aqui estarão algumas imagens usando machine learning (ML), regressão linear/múltipla, dentre outros.
 Link do estudo: https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
+Link download dataset: https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
 
 ## Regressão Linear
 ### No mundo, com todos os países
 **1)Gráficos e resíduos (Cerveja)**
 
-![gráfico regressão linear simples mundial (cerveja)](https://user-images.githubusercontent.com/48027825/85955797-a8974280-b957-11ea-8fe4-2a95c75d3ab0.png) 
+![gráfico regressão linear simples mundial (cerveja)](https://user-images.githubusercontent.com/48027825/85955797-a8974280-b957-11ea-8fe4-2a95c75d3ab0.png)
 ![residuos regressão linear simples mundial (cerveja)](https://user-images.githubusercontent.com/48027825/85955798-a9c86f80-b957-11ea-921e-1efa99f859cb.png)
 
 **2)Gráficos e resíduos (Destilados)**
