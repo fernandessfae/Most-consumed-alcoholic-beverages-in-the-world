@@ -1,6 +1,8 @@
 # Projetos-Data-Science (consumo de bebida alcoólica mundial)
 Aqui estarão algumas imagens usando machine learning (ML), regressão linear/múltipla, dentre outros.
-Link do estudo: https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
+
+Link do estudo: https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/ 
+
 Link download dataset: https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
 
 ## Regressão Linear
