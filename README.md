@@ -6,6 +6,8 @@ Spirits is a generic term for any alcoholic beverage distilled from fermented gr
 
 After this explanation, the idea is to show the map with the countries that consume each type of beverage and a chart with the top 10 countries that consume each type of alcoholic beverage. So let's see what was found.
 
+An observation on the maps, the countries marked with black, means that they do not have data on the consumption of alcoholic beverages.
+
 ## Beer
 
 - [Map](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/World%20drink%20map.ipynb)
