@@ -17,4 +17,29 @@ After this explanation, the idea is to show the map with the countries that cons
 
 ## Wine
 
+- [Map]()
+<img width="960" alt="world-wine" src="https://user-images.githubusercontent.com/48027825/133794954-db2e691d-0631-41df-a5a4-bd22a0ffdb46.png">
+
+- [Top 10]() <br/>
+
+![graphic-world-wine](https://user-images.githubusercontent.com/48027825/133794951-ae900c58-8f27-457c-8e82-5c78725c79da.png)
+
+## Spirit
+
+- [Map]()
+<img width="960" alt="world-spirit" src="https://user-images.githubusercontent.com/48027825/133795447-a6c1b259-c835-4f2c-b74b-63796e69ecfd.png">
+
+- [Top 10]() <br/>
+
+![graphic-world-spirit](https://user-images.githubusercontent.com/48027825/133795443-34b5b601-a65a-4012-b0cb-0abe3004e77a.png)
+
+## Total alcohol
+
+- [Map]()
+<img width="959" alt="world-total-alcohol" src="https://user-images.githubusercontent.com/48027825/133796080-e9def9fb-5f1b-4f71-879f-24ef0269e0c0.png">
+
+- [Top 10]() <br/>
+
+![graphic-world-total-alcohol](https://user-images.githubusercontent.com/48027825/133796077-1aa86771-38bd-4490-9e01-d3198b761479.png)
+
 Under (re)construction. Stay tuned! 
