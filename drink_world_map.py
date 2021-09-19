@@ -21,10 +21,11 @@ def drink_graphic(dataframe: pd.DataFrame,col1: str, col2: str,
        :type title: str
     """       
     plt.figure(figsize = (10, 5))
-    plt.bar(dataframe.nlargest(10, col2)[col1],
-            dataframe.nlargest(10, col2)[col2],
+    plt.bar(dataframe.nlargest(10, col2.lower())[col1.lower()],
+            dataframe.nlargest(10, col2.lower())[col2.lower()],
             color = plt.cm.Set1(np.arange(10)))
-    plt.title(title, fontdict= {'fontsize': 16, 'fontweight':'bold'})
+    plt.title(title.capitalize(),
+              fontdict= {'fontsize': 16, 'fontweight':'bold'})
     plt.xticks(rotation= 45)
     plt.ylabel(col2.replace('_', ' ').capitalize())
     plt.show()
