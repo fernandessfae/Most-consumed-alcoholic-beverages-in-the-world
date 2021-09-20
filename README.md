@@ -11,7 +11,7 @@ An observation on the maps, the countries marked with black, means that they do 
 ## Beer
 
 - [Map](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/World%20drink%20map.ipynb)
-<img width="960" alt="world-beer" src="https://user-images.githubusercontent.com/48027825/133716109-7eee3e3f-8c0b-49a4-b0b5-d96457c75fef.png">
+<img width="960" alt="world-beer" src="https://user-images.githubusercontent.com/48027825/133947455-e60418b5-4521-4d4c-b71a-30a5daa9f5f3.png">
 
 - [Top 10](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/drink_world_map.py) <br/>
 
@@ -20,7 +20,7 @@ An observation on the maps, the countries marked with black, means that they do 
 ## Wine
 
 - [Map](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/World%20drink%20map.ipynb)
-<img width="960" alt="world-wine" src="https://user-images.githubusercontent.com/48027825/133794954-db2e691d-0631-41df-a5a4-bd22a0ffdb46.png">
+<img width="960" alt="world-wine" src="https://user-images.githubusercontent.com/48027825/133947461-eb9e9b8c-9469-4187-9e48-5be32303af7e.png">
 
 - [Top 10](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/drink_world_map.py) <br/>
 
@@ -29,7 +29,7 @@ An observation on the maps, the countries marked with black, means that they do 
 ## Spirit
 
 - [Map](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/World%20drink%20map.ipynb)
-<img width="960" alt="world-spirit" src="https://user-images.githubusercontent.com/48027825/133795447-a6c1b259-c835-4f2c-b74b-63796e69ecfd.png">
+<img width="960" alt="world-spirit" src="https://user-images.githubusercontent.com/48027825/133947457-8c6b1c51-cb03-4661-addd-8cd04664d0b4.png">
 
 - [Top 10](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/drink_world_map.py) <br/>
 
@@ -38,7 +38,7 @@ An observation on the maps, the countries marked with black, means that they do 
 ## Total alcohol
 
 - [Map](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/World%20drink%20map.ipynb)
-<img width="959" alt="world-total-alcohol" src="https://user-images.githubusercontent.com/48027825/133796080-e9def9fb-5f1b-4f71-879f-24ef0269e0c0.png">
+<img width="960" alt="world-total-alcohol" src="https://user-images.githubusercontent.com/48027825/133947459-99664a50-aa3f-4f63-8834-0344fb441ad6.png">
 
 - [Top 10](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/drink_world_map.py) <br/>
 
