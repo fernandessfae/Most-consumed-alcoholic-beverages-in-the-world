@@ -49,8 +49,10 @@ The first impressions on the map and graph above show that the majority of large
 
 ## Total alcohol
 
+Now, we will look at a map with the total alcohol consumed by people in each country with the 3 groups of alcoholic beverages, plus the top 10 consumers represented by the orange, pink and blue color markers where these represent beer, wine and spirits, respectively , and followed with a graph of the 10 countries where people drink the most alcohol.
+
 - [Map](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/World%20drink%20map.ipynb)
-<img width="960" alt="world-total-alcohol" src="https://user-images.githubusercontent.com/48027825/133947459-99664a50-aa3f-4f63-8834-0344fb441ad6.png">
+<img width="960" alt="world-total-alcohol-markers" src="https://user-images.githubusercontent.com/48027825/134352883-0c36de13-7b80-4eb7-b463-87a7f3b9d15c.png">
 
 - [Top 10](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/drink_world_map.py) <br/>
 
