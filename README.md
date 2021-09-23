@@ -49,7 +49,7 @@ The first impressions on the map and graph above show that the majority of large
 
 ## Total alcohol
 
-Now, we will look at a map with the total alcohol consumed by people in each country with the 3 groups of alcoholic beverages, plus the top 10 consumers represented by the orange, pink and blue color markers where these represent beer, wine and spirits, respectively , and followed with a graph of the 10 countries where people drink the most alcohol.
+Now, we will look at a map with the total alcohol consumed by people in each country with the 3 groups of alcoholic beverages, plus the top 10 consumers represented by the *orange*, *pink* and *blue* color markers where these represent *beer*, *wine* and *spirits*, respectively , and followed with a graph of the 10 countries where people drink the most alcohol.
 
 - [Map](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/World%20drink%20map.ipynb)
 <img width="960" alt="world-total-alcohol-markers" src="https://user-images.githubusercontent.com/48027825/134352883-0c36de13-7b80-4eb7-b463-87a7f3b9d15c.png">
@@ -57,5 +57,18 @@ Now, we will look at a map with the total alcohol consumed by people in each cou
 - [Top 10](https://github.com/fernandessfae/Most-consumed-alcoholic-beverages-in-the-world/blob/master/drink_world_map.py) <br/>
 
 ![graphic-world-total-alcohol](https://user-images.githubusercontent.com/48027825/133796077-1aa86771-38bd-4490-9e01-d3198b761479.png)
+![graphic-world-drink-total-alcohol](https://user-images.githubusercontent.com/48027825/134442066-38f10b04-493d-4968-a517-ad0414721c24.png)
 
-Under (re)construction. Stay tuned! 
+## Conclusion
+
+Some analyzes that can be seen on the map and graph are as follows:
+
+- Most people in Europe consume a huge amount of alcoholic beverages, and these beverages contain a large amount of alcohol in their composition.
+
+- In Central America, people consume a lot of alcohol, because of distilled beverages
+
+- Middle Eastern countries do not consume or consume very little alcoholic beverages
+
+- And a slightly more surprising analysis shows that countries like Nigeria, South Korea and Uganda, despite not being part of the top 10, are countries that contain a lot of alcohol in their drinks, despite people not consuming much.
+
+So folks, the idea here is to use data to generate insight or question some curious facts. Obviously some facts you may already know why, but even so, it is interesting to observe some things.
